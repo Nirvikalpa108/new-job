@@ -42,4 +42,4 @@ This is a list of questions I will ask my line manager and team leader before I 
 * What are my flexible working options?
 * How do I register my holiday?
 * Who do I speak to when I have HR/general questions?
-* I am speaking at a conference soon and I have a few conferences this year which I was awarded diversity tickets to. Can I attend these? Who do I speak to about this?
+* I have committed to attend/speak at a few upcoming conferences. Who do I speak to about this to ensure I can get the necessary time off to do this?
